@@ -21,8 +21,9 @@ This project demonstrates how the project Jukebox works using a serial communica
 
 ![jukebox_layout](docs/assets/imgs/SDG2_JUKEBOX_bb.png)
 
-[![JUKEBOX DEMO](https://img.youtube.com/vi/SfbigEKjXdg/0.jpg)](https://www.youtube.com/watch?v=SfbigEKjXdg)
+Click on the image before to watch the Jukebox Demo
 
+[![Jukebox Demo](http://i.ytimg.com/vi/SfbigEKjXdg/hqdefault.jpg)](https://www.youtube.com/watch?v=SfbigEKjXdg)
 
 
 ## Version 1
